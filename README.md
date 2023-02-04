@@ -7,7 +7,7 @@ The tool also provides a feature to exclude certain words from scrambling using 
 
 ```bash
 
-cargo install scrambler
+cargo install scrambler --locked
 
 ```
 
@@ -31,6 +31,7 @@ Uqd vruoj auj splhn hxse cth elci csn
 
 ```
 ## Known Bugs
+
 - It is adding a newline at the end of the output.
 
 ## Limitations

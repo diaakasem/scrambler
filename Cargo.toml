@@ -1,6 +1,6 @@
 [package]
 name = "scrambler"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple command line tool to scramble letters"
 authors = ["Diaa Kasem<me@diaa.me>"]
@@ -8,6 +8,7 @@ license = "MIT"
 repository = "https://github.com/diaakasem/scrambler"
 readme = "README.md"
 keywords = ["scrambler", "scramble", "letters", "words"]
+categories = ["command-line-utilities", "text-processing", "scramble"]
 
 [dependencies]
 clap = "4.1.4"
