@@ -1,7 +1,7 @@
 // use clap::{App, Arg};
-use std::io::Read;
 use rand::{thread_rng, Rng};
 use regex::Regex;
+use std::io::Read;
 
 fn scramble_text(text: &str, untouchable: &Vec<Regex>) -> String {
     let mut result = String::new();
