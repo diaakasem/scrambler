@@ -5,7 +5,7 @@ edition = "2021"
 description = "A simple command line tool to scramble letters"
 authors = ["Diaa Kasem<me@diaa.me>"]
 license = "MIT"
-repository = "github.com/diaakasem/scrambler"
+repository = "https://github.com/diaakasem/scrambler"
 readme = "README.md"
 keywords = ["scrambler", "scramble", "letters", "words"]
 
