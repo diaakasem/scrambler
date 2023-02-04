@@ -7,7 +7,7 @@ authors = ["Diaa Kasem<me@diaa.me>"]
 license = "MIT"
 repository = "github.com/diaakasem/scrambler"
 readme = "README.md"
-keywords = ["scrambler", "scramble", "letters", "words", "cli", "command line", "tool", "cli tool"]
+keywords = ["scrambler", "scramble", "letters", "words"]
 
 [dependencies]
 clap = "4.1.4"
